@@ -1,0 +1,41 @@
+html {
+    font-family: Arial, serif;
+}
+
+body {
+    margin: 50px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0px;
+}
+
+h2 {
+    color: white;
+}
+
+.bgbox {
+    padding: 20px;
+    background-color: #111;
+    color: #b2b2b2;
+    margin: 20px;
+    border-radius: 4px;
+}
+
+.amarelo {
+    color: #febe01;
+}
+
+
+
+.botaocomprar {
+    border-radius: 4px;
+    background-color: #febe01;
+    padding: 10px;
+    font-weight: bolder;
+
+}
+
+
+
